@@ -1,0 +1,28 @@
+header{
+    width: 100%;
+    height: 50px;
+    background-color: aqua;
+    font-family:'Times New Roman', Times, serif
+
+}
+h1{
+    color: red;
+    font-family: Rubik Scribble;
+    font-size: xx-large;
+}
+nav{
+    display:flex;
+    flex-direction: row;
+    justify-content: right;
+    background-color: aquamarine;
+           
+}          
+li{
+    list-style-type: none;
+    display: inline;
+    margin: 0 5px;
+    
+}
+.toilet{
+    color: blue;
+}
